@@ -1,0 +1,4 @@
+*.o
+configure
+/autom4te.cache
+*.log
