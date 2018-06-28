@@ -2,3 +2,5 @@
 /**/configure
 /**/autom4te.cache
 *.log
+/**/test-output.txt
+/**/config.status

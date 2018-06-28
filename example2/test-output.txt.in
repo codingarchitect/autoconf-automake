@@ -1,0 +1,10 @@
+This file will go through autoconf variable substitution.
+The output file will be named as 'test-output.txt' (the '.in'-suffix
+is stripped).
+All the names surrounded by '@'-characters will be replaced by the values
+of the variables (if present) by the configure script, when it is run
+by the end user.
+Prefix: @prefix@
+C compiler: @CC@
+This is a name for which there is no variable.
+Stuff: @stuff@
