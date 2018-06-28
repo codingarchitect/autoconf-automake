@@ -4,3 +4,14 @@
 *.log
 /**/test-output.txt
 /**/config.status
+/**/helloapp
+/**/COPYING
+/**/depcomp
+/**/compile
+/**/INSTALL
+/**/install-sh
+/**/Makefile
+/**/Makefile.in
+*.m4
+/**/missing
+/**/.deps
